@@ -1,7 +1,3 @@
-# CustomerChurnDatasetPrediction
-Customer Churn Analysis &amp; Prediction using Machine Learning – Data preprocessing, segmentation, model building (Logistic Regression, Random Forest, XGBoost), performance evaluation, and business insights.
-
-
 # Customer Churn Analysis & Prediction 📊💡
 
 This project was completed as part of a Data Science & Machine Learning internship. It involves end-to-end analysis and modeling to predict customer churn based on demographic and service usage data.
