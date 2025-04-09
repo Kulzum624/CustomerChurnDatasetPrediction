@@ -37,7 +37,8 @@ This project was completed as part of a Data Science & Machine Learning internsh
 
 ## 📁 Files Included:
 - `customer_churn_analysis.ipynb` – Jupyter notebook with all code and explanations
-- `churn_data.csv` – Dataset
+- `Telco_Customer_Churn_Dataset.csv` – Dataset
+- `model_performance.csv` - Results
 - Results summary and visualizations
 
 ---
