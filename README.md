@@ -37,7 +37,7 @@ This project was completed as part of a Data Science & Machine Learning internsh
 
 ## 📁 Files Included:
 - `customer_churn_analysis.ipynb` – Jupyter notebook with all code and explanations
-- `churn_data.csv` – Dataset (if allowed)
+- `churn_data.csv` – Dataset
 - Results summary and visualizations
 
 ---
